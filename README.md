@@ -2,6 +2,7 @@
 # QS University Rankings 2025
 Portfolio project on **QS World University Rankings 2025: Top global universities.**
 The ranking is well known and authoritative, and this year features with over 1,500 universities across 105 higher education systems.
+The focus of this project is on **EDA** (Exploratory Data Analysis)
 
 
 ## 📚 About Data
